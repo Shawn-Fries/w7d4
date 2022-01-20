@@ -6,26 +6,30 @@ html {
 }
 
 body {
-	// ...
+	width: 80%;
+	margin: 0 auto;
+	font-family: $serif;
+	font-size: 12px;
 }
 
 button {
-	// background-color:
-	// border-color:
-	// color:
-	// font-weight:
-	// padding:
+	background-color: white;
+	border-color: white;
+	color: black;
+	font-weight: bold; 
+	padding: 7px;
 	// border-radius:
 	// transition:
 	// font-family:
 	// text-transform:
 	// font-size:
 	// text-align:
+
 }
 
 button:hover {
-	// background-color:
-	// border-color:
+	background-color:lightgray;
+	border-color:lightgray;
 }
 
 /*
